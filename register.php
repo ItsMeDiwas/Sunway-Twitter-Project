@@ -114,7 +114,7 @@ require 'includes/form_handlers/login_handler.php';
 					<input type="submit" name="register_button" value="Register">
 					
            
-            <?php
+           <!--  <?php
          $to = "diwasrathour@gmail.com";
          $subject = "Some one registered your account at Sunway Twitter";
          
@@ -128,7 +128,7 @@ require 'includes/form_handlers/login_handler.php';
          }else {
             echo "";
          }
-      ?>
+      ?> -->
 				
 		
 
